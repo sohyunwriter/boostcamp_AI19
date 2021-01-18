@@ -1,4 +1,4 @@
-# boostcamp_AI19       
+# 👀 boostcamp_AI19       
 
 부스트캠프 AI19조 repository입니다.       
 
